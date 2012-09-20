@@ -1,5 +1,5 @@
 {
-    "name": "aura/default-installer",
+    "name": "aura/installer-default",
     "type": "composer-installer",
     "license": "BSD",
     "description": "Installs Aura packages using the Composer defaults.",
